@@ -15,8 +15,18 @@
 - a
 - a
 
-### Physics Simulations 
+### 🌌 Physics Simulations 
+With respect to programming, the gift of visualisations to a Physicist is the cornerstone to intuition. The physical representation of the mathematics at hand allows for a grasp of fundamental abstract concepts more deeply by removing the veil of mystery, and illuminating mechanics or trends previously concealed. Within the repository is also a collection of simulations with respect to Physics and physical systems, written from a pedagogical approach such that one may begin at a mathematical formulation of a particular system, and follow a succession of steps to implement a given system into code, for visualisation, to aid intuitons, and satisfy curiousity. Some of the simulations include:
 
+- a
+- a
+- a
+- a
+- a
+- a
+
+  ![](https://bestanimations.com/media/energy-waves/1785864332wave-pendulum.gif)
+ 
 ### 📫 How to reach me:
 
 - Linkedin: <a href="https://www.linkedin.com/in/alex-swanepoel-78b1b2166/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="apoorvtyagi" height="30" width="30" /></a>&nbsp;
