@@ -6,6 +6,9 @@
   
   _Choices!_
 </details>
+
+![](https://i.pinimg.com/originals/01/62/39/0162390ea97ab4443914e24aba6da538.gif)
+
 🧠 Brainteasers and mathematical puzzles have been an inclination of mine since a young age. Recreationally I remain up to date with following quantitative brainteasers and puzzles, such as the problems posted by Jane Street, amongst other numerical conundrums presented in statistics and Bayesian mathematics. Throughout my academic career I have always been interested in problem solving and developing an aptitude for it; A tangential branch of this would include dynamic and algorithmic solutions to problems posed in general domains. In this repository, I have composed an eclectic range of algorithms and scripts used to address dynamic programming problems, quantitative and mathematical puzzles, as well as academic implementations of useful algorithms. A comprehensive list of the scripts and algorithms themselves are as follows: 
 
 - a
