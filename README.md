@@ -14,7 +14,7 @@
 
 - I have also obtained a Bachelor of Science (BSc) Degree in Theoretical Physics from The University Of East Anglia with an Upper Second Class Honours; 3.85 GPA
 - Relevant Modules:  Advanced Calculus, Java Programming, MATLAB programming, Statistics and Probability, Statistical Mechanics
-- Research Project:  Modelling Population Dynamics via Quantum Field Theoretic Machinery
+- Research Project:  [Modelling Population Dynamics via Quantum Field Theoretic Machinery](https://github.com/AMSwanepoel/Project-Portfolio/blob/main/Data%20Science%20%26%20Machine%20Learning/Modelling%20Population%20Dynamics%20using%20Field%20Theoretic%20Techniques.pdf)
       <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
 - 📝 I consider myself a polymath as I have a range of deep interests within the domains of Physics, Mathematics and Computer Science. I regularly solve brainteasers, and mathematics problems as well as exploring unfamiliar subdomains within the realms of Physics, Mathematics and Computer Science. I am currently engaged in the crossover between information theory, statistics and machine learning, as well as exploring reinforcement learning and the newly discovered research of a [New Experiment Creates Strange Quantum Domain Walls](https://www.nature.com/articles/s41586-021-04250-3).
 - 💻 My Programming Languages include: Python, JAVA, LaTeX, MATLAB, Excel, R, Weka, Anaconda, NumPy, SciPy, PyTorch, TensorFlow
@@ -39,9 +39,9 @@ Introduction to Deep Learning, Improving Deep Neural Networks: Hyperparameter Tu
 🎓 This repository holds all of my academic papers, personal projects, and research that I have conducted throughout my scientific career. Currently they're binned in three different categories:
 
 [Academic & Personal Portfolio Projects]()
- - 🔬 [Data Science & Machine Learning ]()
-  - 📄  [Scripts]()
-    - 👾 [Physics Simulations]()
+ - 🔬 [Data Science & Machine Learning ](https://github.com/AMSwanepoel/Project-Portfolio/tree/main/Data%20Science%20%26%20Machine%20Learning)
+  - 📄  [Algorithms & Scripts](https://github.com/AMSwanepoel/Project-Portfolio/tree/main/Algorithms%2C%20Scripts%20%26%20Physics%20Simulations)
+    - 👾 [Physics Simulations](https://github.com/AMSwanepoel/Project-Portfolio/tree/main/Algorithms%2C%20Scripts%20%26%20Physics%20Simulations)
     
 
 
