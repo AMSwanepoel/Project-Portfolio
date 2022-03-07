@@ -49,14 +49,17 @@ of the machinery itself. My motivation stems from bridging the gap between esote
 can be employed in industry. 
 
 The repository itself contains domains of the following nature:
-- Deep Learning Natural Language Processing 
-- Computational Biology Deep Learning Instance Segmentation 
-- Real World Data Science Analytics
+- [Big Data: Data Analysis, Classification and Regression](https://github.com/AMSwanepoel/Project-Portfolio/blob/main/Data%20Science%20%26%20Machine%20Learning/Data_Analytics_Boston_Housing_Market.pdf)
+- Deep Learning Transformer-Based Natural Language Processing via [ChatBot RoBERTa Implementation](https://github.com/AMSwanepoel/Project-Portfolio/blob/main/Data%20Science%20%26%20Machine%20Learning/Deep%20learning%20RoBERTa%20Chat%20Bot.ipynb)
+- Computational Biology Deep Learning [Instance Segmentation](https://github.com/AMSwanepoel/Project-Portfolio/blob/main/Data%20Science%20%26%20Machine%20Learning/Deep%20Learning%20Nuclei%20Instance%20Segmentation.pdf) 
+- Real World Data Science [Analytics](https://github.com/AMSwanepoel/Project-Portfolio/blob/main/Data%20Science%20%26%20Machine%20Learning/Tech-Gadget%20Sales%20Analysis%20Data%20Science%20Application.ipynb)
 - Deep Learning Facial Recognition
-- Artificial Neural Network Constructions, Optimisers and Loss Functions
-- Artificial Neural Network Handwriting Classification
+- Artificial Neural Network Constructions, [Optimisers and Loss Functions](https://github.com/AMSwanepoel/Project-Portfolio/blob/main/Data%20Science%20%26%20Machine%20Learning/Data%20Analysis%20MNIST%20Dataset.ipynb)
+- Artificial Neural Network: [Handwriting Classification](https://github.com/AMSwanepoel/Project-Portfolio/blob/main/Data%20Science%20%26%20Machine%20Learning/Data%20Analysis%20MNIST%20Dataset.ipynb)
 - Generative Adversarial Network Implementations
 - Regression Analysis on Cryptocurrency Pricings
+- Research Literature Survey: [Machine Learning Applications in Finance](https://github.com/AMSwanepoel/Project-Portfolio/blob/main/Data%20Science%20%26%20Machine%20Learning/Survey_on_Machine_Learning_Applications_In_Finance%20(3).pdf)
+
 
 ### 📫 How to reach me:
 
