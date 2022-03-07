@@ -53,7 +53,7 @@ The repository itself contains domains of the following nature:
 - Deep Learning Transformer-Based Natural Language Processing via [ChatBot RoBERTa Implementation](https://github.com/AMSwanepoel/Project-Portfolio/blob/main/Data%20Science%20%26%20Machine%20Learning/Deep%20learning%20RoBERTa%20Chat%20Bot.ipynb)
 - Computational Biology Deep Learning [Instance Segmentation](https://github.com/AMSwanepoel/Project-Portfolio/blob/main/Data%20Science%20%26%20Machine%20Learning/Deep%20Learning%20Nuclei%20Instance%20Segmentation.pdf) 
 - Real World Data Science [Analytics](https://github.com/AMSwanepoel/Project-Portfolio/blob/main/Data%20Science%20%26%20Machine%20Learning/Tech-Gadget%20Sales%20Analysis%20Data%20Science%20Application.ipynb)
-- Deep Learning Facial Recognition
+- Deep Learning Facial Recognition Under [Convolutional Siamese Neural Network Architecture](https://github.com/AMSwanepoel/Project-Portfolio/blob/main/Data%20Science%20%26%20Machine%20Learning/Deep%20Learning%20Facial%20Recognition%20A%20Siamese%20Neural%20Network.ipynb)
 - Artificial Neural Network Constructions, [Optimisers and Loss Functions](https://github.com/AMSwanepoel/Project-Portfolio/blob/main/Data%20Science%20%26%20Machine%20Learning/Data%20Analysis%20MNIST%20Dataset.ipynb)
 - Artificial Neural Network: [Handwriting Classification](https://github.com/AMSwanepoel/Project-Portfolio/blob/main/Data%20Science%20%26%20Machine%20Learning/Data%20Analysis%20MNIST%20Dataset.ipynb)
 - Generative Adversarial Network Implementations
