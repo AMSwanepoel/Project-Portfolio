@@ -1,5 +1,4 @@
 # 💫 Algorithms, Scripts & Physics Simulations
-# 🔬 Data Science & Machine Learning 
 
 
 </details>
