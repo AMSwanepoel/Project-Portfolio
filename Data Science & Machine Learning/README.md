@@ -62,6 +62,19 @@ The repository itself contains domains of the following nature:
 
 Note: **Deep Learning Facial Recognition** currently under progress, however contains the most succinct display of theoretical research paper to application implementation we have to exhibit thus far.
 
+### ☄️  Modelling Population Dynamics via Quantum Field Theoretic Machinery; A BSc Theoretical Physics Research Paper
+
+**[Paper](https://github.com/AMSwanepoel/Project-Portfolio/blob/main/Data%20Science%20%26%20Machine%20Learning/Modelling%20Population%20Dynamics%20using%20Field%20Theoretic%20Techniques.pdf)** 
+
+
+Abstract: Classical population dynamics models such as the Malthusian model have been used to describe general deterministic exponential population growth. These
+classical deterministic systems are restricted by, and have a strong dependency on the precision of measurement of initial conditions. This research project looks
+to develop a Markovian, i.e. memory-less probabilistic system that encapsulates birth-death processes in a population to bypass these hard constraints. At present, stochastic processes that realise this classically are difficult to model and solve. The Doi-Peliti formalism provides a succinct basis for quantising, and solving these processes. This formalism has recently been applied to fields such as mathematical biology, and quantum field theory. On the basis of a budding branching process, we look to present a systematic derivation of the coherent-state path integral via intricate field-theoretic machinery, to provide analytic solutions to the birth-death processes. This will
+produce a continuous population-dependent stochastic process. These are then compared to their corresponding Malthusian results. The research project generalises a stochastic process with respect to a specified master equation to advance collation, to the results derived from utilising the Doi-Peliti formalism. The results and comparisons grant an intuition of the coherent state path integral, and modelling of binary fission processes with comparison of deterministic population dynamics to population-dependent stochastic systems.
+
+*Keywords: quantum field theory, birth-death processes, generating functions, coherent states*
+
+
 ### 📫 How to reach me:
 
 - Linkedin: <a href="https://www.linkedin.com/in/alex-swanepoel-78b1b2166/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="apoorvtyagi" height="30" width="30" /></a>&nbsp;
